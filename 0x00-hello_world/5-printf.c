@@ -1,15 +1,13 @@
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
 
 /**
- *This is a Printf program
- (*
- *Description: Prints a string passed into it)?
-(*section header: we have two header files)*
-* Return: It returns 0
+ * main - prints string
+ *   
+ * Return: 0 upon successful compilation
+ * 
  */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");      
-return (0);
+  printf("with proper grammar, but the outcome is a piece of art,\n");
+  return (0);
 }
