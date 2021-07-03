@@ -1,12 +1,10 @@
 #include <stdio.h>
 
 /**
- *
- *main - prints string
- *
- *Return : returns a 0
- *
- */
+*main - use printf typeof
+*Description: output with printf
+*Return: 0
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
